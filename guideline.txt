@@ -1,0 +1,8 @@
+bundle install
+bundle exec jekyll serve
+
+git add . 
+git commit -m "본인의 커밋 메세지" 
+git push
+
+출처: https://zeddios.tistory.com/1223 [ZeddiOS]
